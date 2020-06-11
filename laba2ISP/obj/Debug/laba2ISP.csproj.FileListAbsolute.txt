@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\laba2ISP\laba2ISP\bin\Debug\laba2ISP.exe.config
+C:\Users\Lenovo\source\repos\laba2ISP\laba2ISP\bin\Debug\laba2ISP.exe
+C:\Users\Lenovo\source\repos\laba2ISP\laba2ISP\bin\Debug\laba2ISP.pdb
+C:\Users\Lenovo\source\repos\laba2ISP\laba2ISP\obj\Debug\laba2ISP.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\laba2ISP\laba2ISP\obj\Debug\laba2ISP.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\laba2ISP\laba2ISP\obj\Debug\laba2ISP.exe
+C:\Users\Lenovo\source\repos\laba2ISP\laba2ISP\obj\Debug\laba2ISP.pdb
+C:\Users\Lenovo\Desktop\Новая папка\laba2ISP\laba2ISP\bin\Debug\laba2ISP.exe.config
+C:\Users\Lenovo\Desktop\Новая папка\laba2ISP\laba2ISP\bin\Debug\laba2ISP.exe
+C:\Users\Lenovo\Desktop\Новая папка\laba2ISP\laba2ISP\bin\Debug\laba2ISP.pdb
+C:\Users\Lenovo\Desktop\Новая папка\laba2ISP\laba2ISP\obj\Debug\laba2ISP.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\Новая папка\laba2ISP\laba2ISP\obj\Debug\laba2ISP.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Новая папка\laba2ISP\laba2ISP\obj\Debug\laba2ISP.exe
+C:\Users\Lenovo\Desktop\Новая папка\laba2ISP\laba2ISP\obj\Debug\laba2ISP.pdb
